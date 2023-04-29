@@ -8,6 +8,11 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathmesh-pawar-1259251b6/) 
+<a href="https://www.linkedin.com/in/prathmesh-pawar-1259251b6/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="40"/>
+</a>
+
+
 <a href="https://leetcode.com/chetanshimpi2001/">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="40"/>
 </a>
