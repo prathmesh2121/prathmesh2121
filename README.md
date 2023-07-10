@@ -13,7 +13,7 @@
 </a>
 
 
-<a href="[https://leetcode.com/pawarprathmesh2121/]">
+<a href="https://leetcode.com/pawarprathmesh2121/">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="40"/>
 </a>
 
